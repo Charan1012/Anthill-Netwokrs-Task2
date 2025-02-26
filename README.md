@@ -2,7 +2,8 @@
 
 Bus Booking System API Documentation
 Base URL
-http://localhost:3000
+http://44.202.12.20:5000
+
 
 Authentication
 All endpoints (except /api/auth/register and /api/auth/login) require authentication. Use the access token returned after login in the Authorization header.
