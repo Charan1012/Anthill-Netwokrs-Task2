@@ -252,7 +252,7 @@ Error Responses
 How to Run the Application
 
 1)Clone the Repository:
-git clone 
+git clone https://github.com/Charan1012/Anthill-Netwokrs-Task2.git
 
 2)Build and Run the Application:
 docker-compose up --build
